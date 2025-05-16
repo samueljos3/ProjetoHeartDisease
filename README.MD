@@ -1,5 +1,5 @@
 # Projeto ICD
-Meu esboço do projeto de Análise de Dados para a disciplina "Introdução à Ciência de Dados" pela UFPB e
+Meu esboço do projeto de Análise de Dados para a disciplina "Introdução a Ciência de Dados" pela UFPB e
 minhas primeiras implementações de Machine Learning.
 
 Referências:
